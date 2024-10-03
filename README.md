@@ -21,4 +21,4 @@
 🎓 I am a student at BRAC University, I love grinding on problems until they're cracked 💪. Check out my repositories for more details.</br>
 
 ### Languages I've Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact&card_width=500)
