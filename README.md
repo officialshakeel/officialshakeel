@@ -2,7 +2,8 @@
 
 ## Languages I've Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+
 
 ## Projects
 
@@ -10,4 +11,4 @@
 
 ## About Me
 
-I am a student at Brac University, solving problems in various programming languages. Check out my repositories for more details.
+I am a student at Brac University, solving problems in various programming languages and trying to learn new techs everyday. 
