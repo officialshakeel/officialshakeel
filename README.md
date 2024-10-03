@@ -1,14 +1,18 @@
 # Hi, I'm Shakeel 👋
 
+## About Me
+
+I am a student at Brac University, solving problems in various programming languages. Check out my repositories for more details.
+
 ## Languages I've Used
 
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact)
 
 ## Projects
 
 - [CSE 111 Lab Assignment Solutions](https://github.com/officialshakeel/JAVA---CSE111---BRACU)
 
-## About Me
+## Connect with Me
 
-I am a student at Brac University, solving problems in various programming languages and trying to learn new techs everyday. 
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shakeel2003/))
+- [Facebook]([https://facebook.com/your-profile](https://www.facebook.com/shakeel2003/))
