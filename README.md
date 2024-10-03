@@ -21,7 +21,7 @@
 🎓 I am a student at BRAC University, I love grinding on problems until they're cracked 💪. Check out my repositories for more details.</br>
 
 <details open="">
-  <summary><b></b></summary>
+  <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/officialshakeel/officialshakeel"><img alt="Shakeel's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
   </p>
