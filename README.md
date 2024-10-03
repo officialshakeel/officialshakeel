@@ -20,11 +20,8 @@
 ### About Me 
 🎓 I am a student at BRAC University, I love grinding on problems until they're cracked 💪. Check out my repositories for more details.</br>
 
-### Languages I've Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact&card_width=500)
-
 <details open="">
-  <summary><b>📈 GitHub Stats</b></summary>
+  <summary><b></b></summary>
   <p align="center">
     <a href="https://github.com/officialshakeel/officialshakeel"><img alt="Shakeel's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
   </p>
