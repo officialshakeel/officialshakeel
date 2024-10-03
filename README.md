@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Shakeel 👋
 
-<!--
-**officialshakeel/officialshakeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages I've Used
 
-Here are some ideas to get you started:
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+
+- [CSE 111 Lab Assignment Solutions](https://github.com/officialshakeel/JAVA---CSE111---BRACU)
+
+## About Me
+
+I am a student at Brac University, solving problems in various programming languages. Check out my repositories for more details.
