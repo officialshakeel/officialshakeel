@@ -2,8 +2,7 @@
 
 ## Languages I've Used
 
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact)
 
 ## Projects
 
