@@ -20,17 +20,11 @@
 <br />
 
 ### About Me 
-🎓 I am a student at Brac University, solving problems in various programming languages. Check out my repositories for more details. </br>
+🎓 I am a student at BRAC University, solving problems in various programming languages. Check out my repositories for more details.</br>
 😄 Pronouns: He/him/his</br>
 
-<details open="">
-  <summary><b>📈 GitHub Stats</b></summary>
-  <p align="center">
-    <a href="https://github.com/officialshakeel/officialshakeel"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=officialshakeel&theme=highcontrast"/></a>
-    <a href="https://github.com/officialshakeel/officialshakeel"><img alt="Shakeel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=officialshakeel&show_icons=true&theme=merko" width=55%/></a>
-    <a href="https://github.com/officialshakeel/officialshakeel"><img alt="Shakeel's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
-  </p>
-</details>
+### Languages I've Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact)
 
 ### Blog Posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
