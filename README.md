@@ -18,7 +18,7 @@
 <!-- Visitor Badge -->
 ![](https://visitor-badge.glitch.me/badge?page_id=officialshakeel.officialshakeel)
 <br />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact)
 ### About Me 
 🎓 I am a student at BRAC University, solving problems in various programming languages. Check out my repositories for more details.</br>
 😄 Pronouns: He/him/his</br>
