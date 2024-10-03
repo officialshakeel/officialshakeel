@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Student+at+BRAC+University;Java+Enthusiast;Learning+AI+and+ML;Nice+to+Meet+You!&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Student+at+BRAC+University;I+love+grinding+on+a+problem+for+hours+until+it’s+cracked;Nice+to+Meet+You!&center=true"></a>
 </p>
 
 <!-- Social Media Links -->
