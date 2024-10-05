@@ -18,9 +18,7 @@
 <br />
 
 ### About Me 
-🎓 `I am a student at BRAC University, I love grinding on problems until they're cracked 💪. Check out my repositories for more details.`
-</br>
+🎓 I am a student at BRAC University, I love grinding on problems until they're cracked 💪. Check out my repositories for more details.</br>
 
-```markdown
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshakeel&layout=compact&theme=transparent)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialshakeel&show_icons=true&theme=transparent)
